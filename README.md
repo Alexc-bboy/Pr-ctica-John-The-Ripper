@@ -1,1 +1,4 @@
-Esta práctica ha sido realizada con dos máquinas virtuales, Kali-Linux y Metasploiteable2
+Esta práctica ha sido realizada en entornos aislados.
+Maquinas usadas: 
+  -Kali-Linux 
+  -Metasploiteable2
